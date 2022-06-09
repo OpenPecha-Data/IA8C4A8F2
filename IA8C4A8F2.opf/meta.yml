@@ -1,0 +1,117 @@
+id: IA8C4A8F2
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-24T21:12:29+00:00'
+last_modified: '2022-06-09T08:36:06.967260+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W22096
+  title: གསུང་འབུམ། འགྱུར་མེད་རྡོ་རྗེ
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
+  base:
+    C02B:
+      image_group_id: I2195
+      title: ''
+      total_pages: 726
+      order: 1
+      base_file: C02B.txt
+    DE88:
+      image_group_id: I2196
+      title: ''
+      total_pages: 644
+      order: 2
+      base_file: DE88.txt
+    FC62:
+      image_group_id: I2197
+      title: ''
+      total_pages: 668
+      order: 3
+      base_file: FC62.txt
+    14B1:
+      image_group_id: I2198
+      title: ''
+      total_pages: 614
+      order: 4
+      base_file: 14B1.txt
+    E2E4:
+      image_group_id: I2199
+      title: ''
+      total_pages: 634
+      order: 5
+      base_file: E2E4.txt
+    '0647':
+      image_group_id: I2200
+      title: ''
+      total_pages: 690
+      order: 6
+      base_file: 0647.txt
+    4AAA:
+      image_group_id: I2201
+      title: ''
+      total_pages: 772
+      order: 7
+      base_file: 4AAA.txt
+    152A:
+      image_group_id: I2202
+      title: ''
+      total_pages: 730
+      order: 8
+      base_file: 152A.txt
+    '5303':
+      image_group_id: I2203
+      title: ''
+      total_pages: 782
+      order: 9
+      base_file: 5303.txt
+    1E16:
+      image_group_id: I2204
+      title: ''
+      total_pages: 724
+      order: 10
+      base_file: 1E16.txt
+    F9FA:
+      image_group_id: I2205
+      title: ''
+      total_pages: 746
+      order: 11
+      base_file: F9FA.txt
+    DAC7:
+      image_group_id: I2206
+      title: ''
+      total_pages: 674
+      order: 12
+      base_file: DAC7.txt
+    85C4:
+      image_group_id: I2207
+      title: ''
+      total_pages: 784
+      order: 13
+      base_file: 85C4.txt
+    E9B9:
+      image_group_id: I2208
+      title: ''
+      total_pages: 666
+      order: 14
+      base_file: E9B9.txt
+    35C5:
+      image_group_id: I2209
+      title: ''
+      total_pages: 602
+      order: 15
+      base_file: 35C5.txt
+    47AC:
+      image_group_id: I2210
+      title: ''
+      total_pages: 766
+      order: 16
+      base_file: 47AC.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
